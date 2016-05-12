@@ -3,7 +3,6 @@ package ru.java.calculator;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.text.ParseException;
 
 /**
  * Created by Abilis on 12.05.2016.
